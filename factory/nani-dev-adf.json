@@ -1,0 +1,9 @@
+{
+	"name": "nani-dev-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33482b11-3e59-4eb8-806a-69cfb317c4f4",
+		"tenantId": "0e76a106-1358-459b-b832-005a5e5ffc98"
+	}
+}
